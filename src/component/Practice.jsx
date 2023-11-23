@@ -10,7 +10,6 @@ const Practice = () => {
       return b + a;
     }
   };
-  // console.log(a);
   console.log(myfunc("lip", "i"));
   return <div>Practice</div>;
 };
